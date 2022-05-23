@@ -1,0 +1,93 @@
+.main-dot{
+    width: 180px;
+    height: 300px;
+    border: 2px solid red;
+    padding-left: 40px;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+    position: relative;
+    top: 100px;
+    box-shadow: 4px 1px 10px;
+
+}
+.mn{
+    width: 450px;
+    height: 80vh;
+    border: 1px solid black;
+    margin: auto;
+}
+.to{
+    color: red;
+    font-size: larger;
+}
+.task{
+    color: red;
+    text-decoration: line-through;
+    font-size: 22px;
+
+}
+.fa-plus{
+    color: aliceblue;
+    background-color: red;
+    font-size: larger;
+    border-radius: 50%;
+    position: relative;
+    top: 80px;
+    padding: 5px;
+}
+.paris{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 180px;
+    top: 80px;
+}
+.fa-arrow-left{
+    font-size: 30px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.blur{
+    filter: blur(9px);
+}
+
+
+.mid{
+    border: 3px solid red;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    position: absolute;
+    top: 180px;
+    left: 600px;
+    
+}
+.tex{
+    padding: 5px;
+}
+.add{
+    color: aliceblue;
+    background-color: red;
+    border: 10px solid red;
+    border-radius: 15px;
+}
+.down{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(249, 247, 247);
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+    top: 650px;
+}

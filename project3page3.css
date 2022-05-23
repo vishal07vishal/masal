@@ -1,0 +1,83 @@
+.main-container{
+    width: 450px;
+    height: 360px;
+    text-align: start;
+    display: grid;
+    margin: auto;
+      position: relative;
+  bottom: 300px;
+     font-size: 25px;
+     padding-top: 100px;
+     border: 1px solid black;
+     bottom: 350px;
+     
+ }
+ .item{
+     width: 250px;
+     height: 35px;
+     border: 2px solid green;
+     
+     box-shadow: 2px 2px 1px rgb(161, 128, 128);
+     padding-top: 20px;
+     padding-left: 10px;
+     border: 2px solid red;
+     border-radius: 10px;
+     margin: auto;
+ }
+ .task{font-size: 40px;
+     font-weight: bold;
+ 
+ }
+ .list{
+     font-size: 28px;
+     font-weight: lighter;
+ }
+ .top{
+     position: relative;
+    top: -150px;
+    left: 640px;
+ }
+ .fa-plus{
+     background-color: red;
+     font-size: 35px;
+     color: aliceblue;
+     border-radius: 50%;
+     position: relative;
+     left: 840px;
+     top: 90px;
+ }
+ .blur{
+     filter: blur(9px);
+ }
+ .mid{
+     border: 3px solid red;
+     width: 300px;
+     height: 200px;
+     text-align: center;
+     padding-top: 40px;
+     font-size: 25px;
+     font-weight: bold;
+     border-radius: 5px;
+     position: relative;
+     margin: auto;
+     top: 200px;
+ }
+ .tex{
+     padding: 5px;
+ }
+ .add{
+     color: aliceblue;
+     background-color: red;
+     border: 10px solid red;
+     border-radius: 15px;
+ }
+ .down{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(249, 247, 247);
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+    top: 580px;
+    
+}
