@@ -1,0 +1,207 @@
+.text{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 120px;
+    margin-left: 350px;
+    display: inline-block;
+  }
+  a{
+      text-decoration: none;
+  }
+  .list{
+      color: rgb(245, 237, 237);
+      font-size: 20px;
+      margin-left: 465px;
+      margin-top: -99px;
+  }
+  .circle{
+      color: aliceblue;
+      background-color: rgb(219, 48, 48);
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      margin-left: 800px;
+      margin-top: -65px;
+  }
+  .plus{
+      color: aliceblue;
+      font-size: larger;
+      margin-left: 810px;
+      margin-top: -25px;
+  }
+  .box{
+      color: coral;
+      height: 250px;
+      width: 160px;
+      
+      border: 1px solid rgb(228, 84, 84);
+      font-size: large;
+      margin-top: 50px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px rgb(107, 101, 101);
+      margin-left: 350px;
+  }
+  .line{
+      width: 120px;
+      margin-left: 38px;
+      font-weight: bolder;
+  }
+  .red{
+      color: rgb(230, 53, 53);
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: line-through;
+      margin-left: 10px;
+  }
+  .check{
+     color: black;
+     font-size: 18px;
+     margin-top: 5px;
+     margin-left: -30px;
+  }
+  .size{
+      color: coral;
+      height: 250px;
+      width: 160px;
+      border: 1px solid rgb(228, 84, 84);
+      font-size: large;
+      margin-top: 50px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px rgb(107, 101, 101);
+      margin-left: 565px;
+      margin-top: -250px;
+  }
+  .place{
+      color: coral;
+      height: 250px;
+      width: 160px;
+      border: 1px solid rgb(228, 84, 84);
+      font-size: large;
+      margin-top: 50px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px rgb(107, 101, 101);
+      margin-left: 775px;
+      margin-top: -250px;
+  }
+  .word{
+      color: rgb(247, 239, 239);
+      font-size: 25px;
+      margin-left: 840px;
+      margin-top: -25px;
+  }
+  .circle1{
+      color: aliceblue;
+      background-color: rgb(219, 48, 48);
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      margin-left: 730px;
+      margin-top: 400px;
+  }
+  .plus1{
+      color: aliceblue;
+      font-size: larger;
+      margin-left: 740px;
+      margin-top: -25px;
+  }
+  .box1{
+      color: coral;
+      height: 330px;
+      width: 320px;
+      border: 1px solid rgb(228, 84, 84);
+      font-size: 30px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px rgb(107, 101, 101);
+      margin-top: -320px;
+      margin-left: 450px;
+  }
+  .line1{
+      width: 230px;
+      margin-right: 1px; 
+      font-weight: bolder;
+  }
+  .test{
+      font-size: 50px;
+      font-weight: bolder;
+      margin-left: 110px;
+      margin-top: -45px;
+  }
+  .text1{
+      font-size: larger;
+    margin-left: 350px;
+  }
+  .hr1{
+      width: 200px;
+      margin-top:100px;
+      margin-left: -100px;
+  }
+  .hr2{
+      width: 200px;
+      margin-top: -75px;
+      margin-right: 400px;
+  }
+  .red1{
+      color: rgba(241, 66, 66, 0.726);
+      font-size: 25px;
+      font-weight: bold;
+      text-decoration: line-through;
+      margin-left: 10px;
+  }
+  .check1{
+      color: black;
+      font-size: 20px;
+      margin-top: 5px;
+     margin-left: -40px;
+  }
+  .circle2{
+      background-color: rgb(219, 48, 48);
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      margin-left: 550px;
+      margin-top: 100px;
+  }
+  .material-symbols-outlined{
+      color: rgb(247, 238, 238);
+      margin-top: 3px;
+      margin-left: 2px;
+  }
+  .back{
+      color: rgb(119, 112, 112);
+      font-size: 30px;
+      margin-left: 45px;
+      margin-top: -35px;
+  }
+  .page3{
+      color: red;
+      background-color: rgb(255, 255, 255);
+      border: 2px solid red;
+      height: 150px;
+      width: 300px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 3px 3px 3px grey;
+      margin-top: -260px;
+      margin-left: 470px; 
+  }
+  .mithi{
+      border-radius: 5px;
+      border-color: red;
+      background-color: white;
+  }
+  .button{
+      color: white;
+      background-color: rgb(216, 27, 27);
+      width: 60px;
+      height: 20px;
+      border: none;
+      border-radius: 10px;
+  }
+  
+  .mit{
+      filter: blur(6px);
+  }
