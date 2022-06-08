@@ -137,8 +137,7 @@ option{
     display: flex;
     justify-content: space-between;
 }
-.alarm
-{
+.alarm{
     background-image: linear-gradient(to right, #6e54ec 0% 40%, #f147c5 90%);
     width:190px;
     height:40px;
@@ -157,7 +156,6 @@ option{
     #fc5eff,
     #f147c5 );
 }
-
 
 .time{
     background-color: #F25CFE;
